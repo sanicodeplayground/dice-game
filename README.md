@@ -1,6 +1,6 @@
 # Description
 
-Roll the dice is an interactive web game
+🎲 Roll the Dice is an interactive web game
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ Roll the dice is an interactive web game
 
 
 # Screenshot
- <img src="https://i.ibb.co/rc1fhzw/Screenshot-2024-04-23-at-09-18-07.png">
+ <img src="https://i.ibb.co/h7bfFFS/Screenshot-2024-04-23-at-09-36-16.png">
  
 # Tech Used
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
