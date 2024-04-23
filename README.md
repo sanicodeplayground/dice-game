@@ -15,7 +15,7 @@
 - Responsive design
 - Vanilla JavaScript
   - arrays
-  - random math
+  - math random
   - DOM manipulation
 
 
