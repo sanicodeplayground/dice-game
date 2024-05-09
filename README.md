@@ -9,7 +9,7 @@ Play now: https://sanicodeplayground.github.io/js-dice-game/
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [Features](#features)
-- [Screenshot](#screenshot)
+- [Preview](#preview)
 - [Tech Used](#tech-used)
 - [License](#license)
 
