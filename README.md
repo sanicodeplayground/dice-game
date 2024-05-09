@@ -1,8 +1,8 @@
 # Description
 
-🎲 Roll the Dice is an interactive web game.
+🎲 Roll the Dice is an interactive web game that puts your luck to the test. In this interactive game, players take turns rolling the dice. Landing on a one causes a player to lose all accumulated points, adding a layer of strategy as players decide whether to risk another roll or hold and save their current score. The first player to reach 100 points claims victory in this exciting race against chance. Test your luck and strategic thinking—will you risk it all or play it safe?
 
-Demo: https://sanicodeplayground.github.io/js-dice-game/
+Play now: https://sanicodeplayground.github.io/js-dice-game/
 
 ## Table of Contents
 
