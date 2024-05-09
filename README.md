@@ -1,6 +1,7 @@
 # Description
 
-🎲 Roll the Dice is an interactive web game
+🎲 Roll the Dice is an interactive web game.
+
 Demo: https://sanicodeplayground.github.io/js-dice-game/
 
 ## Table of Contents
