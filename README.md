@@ -14,22 +14,23 @@ Play now: https://sanicodeplayground.github.io/js-dice-game/
 - [License](#license)
 
 # Features
+
 - Responsive design
-- Vanilla JavaScript
+- Typescript
   - arrays
   - math random
   - DOM manipulation
 
-
 # Preview
+
 ![Dice Animation](https://i.ibb.co/KNy2Hry/dice.gif)
- 
+
 # Tech Used
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
 # License
-[MIT](https://choosealicense.com/licenses/mit/)
 
+[MIT](https://choosealicense.com/licenses/mit/)
 
 [⬆ Back to Top](#table-of-contents)
